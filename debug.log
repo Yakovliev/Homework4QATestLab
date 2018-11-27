@@ -1,0 +1,9 @@
+[1127/023804.943:ERROR:process_info.cc(359)] UncheckedAllocate
+[1127/133134.418:ERROR:process_info.cc(359)] UncheckedAllocate
+[1127/133134.519:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1127/133134.519:ERROR:exception_snapshot_win.cc(88)] thread ID 2328 not found in process
+[1127/133134.519:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[1127/142935.300:ERROR:process_info.cc(359)] UncheckedAllocate
+[1127/144049.461:ERROR:process_info.cc(359)] UncheckedAllocate
+[1127/144052.362:ERROR:process_info.cc(359)] UncheckedAllocate
+[1127/153621.069:ERROR:process_info.cc(359)] UncheckedAllocate

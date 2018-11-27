@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteProduct" verbose="1" >
+    <test name="CreateProductChrome" >
+        <classes>
+            <class name="productTest.CreateProductTest" />
+            <parameter name="browser" value="chrome"/>
+        </classes>
+    </test>
+<!--
+    <test name="CreateProductEdge" >
+        <classes>
+            <class name="productTest.CreateProductTest" />
+            <parameter name="browser" value="edge"/>
+        </classes>
+    </test>
+
+    <test name="CreateProductFirefox" >
+        <classes>
+            <class name="productTest.CreateProductTest" />
+            <parameter name="browser" value="firefox"/>
+        </classes>
+    </test>
+-->
+</suite>
